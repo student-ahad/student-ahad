@@ -1,6 +1,6 @@
 student-ahad
 <br>
-author-ahadmaqsoodkhan
+author-ahadmaqsoodkhan(ahad khan)
 
 <!--
 **student-ahad/student-ahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
